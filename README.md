@@ -46,13 +46,11 @@ You need **Python 3** installed on your system.
     ```
 
 2.  Install the dependencies:
-    ```bash
-    pip install PyQt6
-    ```
+   
 
 3.  Launch the journal:
     ```bash
-    python main.py
+    python drake.py
     ```
 
 ## 🔦 Usage
